@@ -1,6 +1,8 @@
 body{
     background: #ffffff;
     font-family: Verdana;
+    width: 330px;
+    margin: auto;
   }
   
   
@@ -10,6 +12,7 @@ body{
   #title{
     font-size: 40px;
     text-transform: uppercase;
+    text-align: center;
   }
   a{
     color: #134914;
@@ -35,10 +38,12 @@ body{
     margin: 0;
     margin-bottom:15px ;
     text-transform: capitalize;
+    text-align: center;
     
   }
   .post_imagem{
     margin-bottom: 19px;
+    width: 100%;
   }
   .contacts_list{
     list-style-type: square;
