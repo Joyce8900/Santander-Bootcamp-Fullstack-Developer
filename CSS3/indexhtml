@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta charset="utf-8">
+		<title>Joyce Santos</title>
+    <link rel="stylesheet" href="style.css"
+	<head>
+<body>
+	<header>
+
+		<img src="http://guiagratis.com.br/wp-content/uploads/2018/07/html-1-300x158.jpg"alt= "Foto da linguagem utilizada, html" class ="photo">
+		<h1 id="title"> Joyce Santos<h1>
+	</header>
+	<section>
+		<header>
+			<h2 class="subtitle">Posts</h2>
+		</header>
+		<article class="post">
+			<header>
+				<h3 class="post_title">Post #1</h3>
+				<img src="https://seeklogo.com/images/C/centro-de-ensino-superior-do-serido-ceres-ufrn-logo-64C1FA29B1-seeklogo.com.png" alt = "ufrn ceres" class="post_imagem">
+			</header>
+
+			<p class="post_content">
+			Links para contato:  
+
+		</p>
+		</article>
+	</section>
+	<footer>
+		<ul class="contacts_list">
+		  <li>
+				<a href="mailto:joyce.santos.709@ufrn.edu.br"target="_blank">Email</a>
+			<li>
+				<a href="tel: (84) 999271376"target="_blank">WhatsApp<a/>		
+			<li>
+				<a href="https://www.linkedin.com/in/joyce-santos-4589b11a8/" target="_blank">Linkedin<a/>
+			<li>
+				<a href="https://github.com/Joyce8900"target="_blank">GitHub<a/>
+			<li>
+				<a href="https://www.instagram.com/joyce.santos89/"target="_blank">Instagram<a/>
+		</ul>
+				
+			
+		</ul>
+	</footer>
+</body>
+
+<html>
