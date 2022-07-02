@@ -1,7 +1,11 @@
 body{
+  /* cor para a pagina */
     background: #ffffff;
+    /* fonte do elemento */
     font-family: Verdana;
+    /* tamanho do objeto(no caso a moldura) */
     width: 330px;
+    /* criar o objeto de acordo com a margin nesse caso a margin está auto, ela vai se adaptar a width */
     margin: auto;
   }
   
@@ -10,15 +14,21 @@ body{
     color: #000
   }
   #title{
+    /* defini o tamanho da letra */
     font-size: 40px;
+    /* colocar todas as palavras em maiuculo */
     text-transform: uppercase;
+    /* determina de qual formar quer que o texto fique, centralizada, para direita,esquerda, recurda, alinhada, nesse caso ela está centralizada */
     text-align: center;
   }
   a{
+    /* "a" está nos links, significa que todo a terá a essa cor declarada */
     color: #134914;
   }
   .photo{
+    /* borda da imagem terá 1px de largura, será estilo solido e na cor black */
     border: 1px solid black;
+    /* estilo da borda tipo radiano com 50% */
     border-radius:50%;
   }
   .post_title{
